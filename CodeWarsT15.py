@@ -5,5 +5,3 @@ and returns a list with the reverse order.
 """
 def reverse_list(l):    
     return l[::-1]
-
-
